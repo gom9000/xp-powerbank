@@ -1,5 +1,5 @@
 # PowerBANK-229
-A simple 4-lines power supply (9 volt) bank. 
+A simple 4-lines power supply (9 volt) bank connected to the mains. 
 
 
 ### Features
