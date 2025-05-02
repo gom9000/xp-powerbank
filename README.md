@@ -24,7 +24,7 @@ the second digit is the number of output lines for each separate ground, the thi
 
 - [powerBANK-149 alias "powerBANK 4"](powerbank-4)
 - [powerBANK-149 alias "TankYou"](https://github.com/gom9000/TankYou/tree/master)
-- [powerBANK-229](powerbank-229)
+- [powerBANK-229 alias "TankYou rev2"](https://github.com/gom9000/TankYou-rev2/tree/master)
 
 
 ## About
