@@ -1,5 +1,8 @@
 # Power Bank PSU eXPerience
-A series of simple experiences on powering multiple classic 9V stomp box guitar pedals.<br>
+**Type**: Power Supply | **Status**: Ongoing
+
+A collection of schematics born from the need to power my audio stomp boxes at 9V. It serves as the "gym" where I tested various configurations before moving to the final, standalone projects in the *TankYou* series.
+
 The type of power source leads to classifying this kind of power supply devices (powerbank) as follows:
 
 - the power source is an external DC adapter (stabilized or not), or low-voltage AC adapter, connected to the mains
@@ -18,18 +21,14 @@ Within the prevoius cassifications, it is possible to determine some features th
 
 
 ## eXPeriences
-Below are some design experiences I made to power my audio stomp box and other small 9V devices.<br>
-The 3-digit number code at the end of the names indicates: the first digit is the number of separate grounds of the device,
-the second digit is the number of output lines for each separate ground, the third digit is the value of the output voltage.
+Below are some design experiences I made to power my audio stomp box and other small 9V devices.<br/>
+The 3-digit code used in the names indicates: (isolated grounds) - (lines per ground) - (output voltage).
 
-- [powerBANK-149 alias "powerBANK 4"](powerbank-4)
-- [powerBANK-149 alias "TankYou"](https://github.com/gom9000/TankYou/tree/master)
-- [powerBANK-229 alias "TankYou rev2"](https://github.com/gom9000/TankYou-rev2/tree/master)
-
-
-## About
-Author : Alessandro Fraschetti (mail: [gos95@gommagomma.net](mailto:gos95@gommagomma.net))
+- powerBANK-149 (alias ["powerBANK 4"](powerbank-4)) - early tests on 4 lines with a common ground.
+- powerBANK-149 (alias ["TankYou"](https://github.com/gom9000/TankYou/tree/master)) - final implementation in a compact format.
+- powerBANK-229 (alias ["TankYou rev2"](https://github.com/gom9000/TankYou-rev2/tree/master)) - evolution featuring isolated grounds and direct mains connection.
 
 
-## License
-This project is licensed under the [MIT license](LICENSE) License.
+## About & License
+**Author**: Alessandro Fraschetti (gom9000).<br/>
+**License**: This experience is licensed under the [MIT License](LICENSE). The license applies to all the documentation, schematic files, and PCB layouts provided in this repository.

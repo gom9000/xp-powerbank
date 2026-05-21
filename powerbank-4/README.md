@@ -4,17 +4,16 @@ This is an simple project for a 4-lines power supply (9 volt) bank.
 ![powerbank-4-built](powerbank-4_built-1.jpg)
 
 
-## Specifications
-
-### Features
-- 12-15V AC/DC power plug for external input power supply (center-negative)
-- 4 separated and regulated 9V-200mA output lines (center-negative)
-- common ground between all the output lines
-- DC source reverse polarity protection (with led indication)
+## Features
+- **Input**: 12-15V AC/DC (center-negative).
+- **Outputs**: 4 independent regulated output providing 9V at 200mA each (center-negative).
+- **Protection**: Integrated DC source reverse polarity protection with a dedicated LED indicator.
+- **Grounding**: Common ground architecture across all output lines.
 
 ![package-inside](powerbank-4_built-3.jpg)
 
-### Hardware
+
+## Hardware Design
 Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 
 #### Schematic:
@@ -22,3 +21,8 @@ Schematics and PCB layouts are designed with ExpressPCB free CAD software.
 
 #### PCB Layout:
 ![board-pcb](hardware/powerbank-4_pcb.jpg)
+
+
+## About & License
+**Author**: Alessandro Fraschetti (gom9000).<br/>
+**License**: This experience is licensed under the [MIT License](LICENSE). The license applies to all the documentation, schematic files, and PCB layouts provided in this repository.
