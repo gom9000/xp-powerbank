@@ -4,7 +4,7 @@ This is an simple project for a 4-lines power supply (9 volt) bank.
 ![powerbank-4-built](powerbank-4_built-1.jpg)
 
 
-## Features
+## Specifications
 - **Input**: 12-15V AC/DC (center-negative).
 - **Outputs**: 4 independent regulated output providing 9V at 200mA each (center-negative).
 - **Protection**: Integrated DC source reverse polarity protection with a dedicated LED indicator.
