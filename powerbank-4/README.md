@@ -1,5 +1,5 @@
 # powerBANK-4
-This is an simple project for a 4-lines power supply (9 volt) bank.
+This is a simple project for a 4-lines linear power supply (9 volt) bank.
 
 ![powerbank-4-built](powerbank-4_built-1.jpg)
 
